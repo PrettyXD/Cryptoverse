@@ -2,7 +2,6 @@ import streamlit as st
 from streamlit_extras.no_default_selectbox import selectbox
 import numpy as np
 import pandas as pd
-import pandas_datareader as web
 import datetime as dt
 from sklearn.preprocessing import MinMaxScaler
 import yfinance as yf
